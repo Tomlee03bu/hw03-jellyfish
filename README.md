@@ -1,6 +1,6 @@
 # Procedural Jellyfish
 
-![Jelly Fish Demo](imgs/jellyfish.mp4)
+![Jelly Fish Demo](imgs/demo.gif)
 
 I created a jellyfish with the base required components. 
 
